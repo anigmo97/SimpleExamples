@@ -13,11 +13,8 @@ import org.apache.spark.api.java.JavaSparkContext;
 import java.util.{Map,HashMap}
 
 //logs
-//import lombok.extern.slf4j.Slf4j
 import org.slf4j.{Logger, LoggerFactory}
 
-//Personal
-import com.ingest.spark.streaming.config._
 
 import org.apache.spark.sql.delta.sources.DeltaDataSource;
 /**
