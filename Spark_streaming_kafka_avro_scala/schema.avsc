@@ -1,0 +1,9 @@
+{
+    "type": "record",
+    "namespace": "example",
+    "name": "RawRecord",
+    "fields": [
+        {"name": "int_field","type": "int"},
+        {"name": "string_field","type": "string"}
+    ]
+}
