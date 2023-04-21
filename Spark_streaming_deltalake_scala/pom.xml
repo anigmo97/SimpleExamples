@@ -20,7 +20,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<start-class>com.ingest.spark.streamingTest.Application2</start-class>
-		<spark.version>2.4.4</spark.version>
+		<spark.version>3.4.0</spark.version>
 		<jackson.version>2.9.2</jackson.version>
 	</properties>
 
